@@ -1,0 +1,5 @@
+String NEWSTOKEN = "c142ad4610a641d3bb1f7d3fd721e2a2";
+String NEWSCOUNTRY = "us";
+
+String WEATHERTOKEN = "bb9b6dc2f49ef997088963b20889a2f4";
+String WEATHERCITYNAME = "Kathmandu";
